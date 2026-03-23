@@ -24,6 +24,8 @@
   },
   "homepage": "https://github.com/SebasHOs/Workshop#readme",
   "dependencies": {
+    "body-parse": "^0.1.0",
+    "body-parser": "^2.2.2",
     "express": "^5.2.1",
     "nodemon": "^3.1.14"
   }
